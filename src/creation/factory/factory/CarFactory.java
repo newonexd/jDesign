@@ -1,4 +1,4 @@
-package src.creation.factory.factory;
+package creation.factory.factory;
 
 public interface CarFactory {
     Car makeCar(String brand);

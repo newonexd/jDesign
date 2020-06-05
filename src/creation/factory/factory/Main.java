@@ -1,4 +1,4 @@
-package src.creation.factory.factory;
+package creation.factory.factory;
 
 public class Main {
     public static void main(String[] args){

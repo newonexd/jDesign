@@ -1,4 +1,4 @@
-package src.creation.prototype;
+package creation.prototype;
 
 public class Prototype implements Cloneable {
     private String name;

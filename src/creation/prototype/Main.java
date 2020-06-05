@@ -1,4 +1,4 @@
-package src.creation.prototype;
+package creation.prototype;
 
 public class Main {
     public static void main(String[] args){

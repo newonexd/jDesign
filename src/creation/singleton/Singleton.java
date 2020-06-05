@@ -1,4 +1,4 @@
-package src.creation.singleton;
+package creation.singleton;
 
 /**
  * 懒汉模式

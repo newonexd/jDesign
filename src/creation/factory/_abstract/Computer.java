@@ -1,4 +1,4 @@
-package src.creation.factory._abstract;
+package creation.factory._abstract;
 
 
 public class Computer {

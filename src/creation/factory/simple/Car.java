@@ -1,4 +1,4 @@
-package src.creation.factory.simple;
+package creation.factory.simple;
 
 /**
  *  抽象为车

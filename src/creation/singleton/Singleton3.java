@@ -1,4 +1,4 @@
-package src.creation.singleton;
+package creation.singleton;
 
 /**
  * 嵌套模式 线程安全

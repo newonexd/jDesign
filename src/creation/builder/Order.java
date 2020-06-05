@@ -1,4 +1,4 @@
-package src.creation.builder;
+package creation.builder;
 
 public class Order {
     private int No;

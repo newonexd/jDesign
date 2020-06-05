@@ -1,4 +1,4 @@
-package src.creation.builder;
+package creation.builder;
 
 public class Main {
     public static void main(String[] args) throws Exception {

@@ -1,4 +1,4 @@
-package src.creation.factory.simple;
+package creation.factory.simple;
 
 public class Factory {
     public static Car makeCar(String brand){
