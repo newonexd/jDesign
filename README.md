@@ -21,3 +21,10 @@ java 设计模式
 * [组合模式](https://github.com/newonexd/jDesign/tree/master/src/structure/combination)
 * [装饰者模式](https://github.com/newonexd/jDesign/tree/master/src/structure/decorator)
 * [门面模式](https://github.com/newonexd/jDesign/tree/master/src/structure/facade)
+
+## 行为型模式
+
+* [观察者模式](https://github.com/newonexd/jDesign/tree/master/src/behavior/observer)
+* [策略模式](https://github.com/newonexd/jDesign/tree/master/src/behavior/strategy)
+* [模板方法模式](https://github.com/newonexd/jDesign/tree/master/src/behavior/template)
+* [责任链模式](https://github.com/newonexd/jDesign/tree/master/src/behavior/handler)
